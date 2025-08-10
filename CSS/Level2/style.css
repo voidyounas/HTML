@@ -1,0 +1,21 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    border-width: 2px;
+    border-style: solid;
+    border-color: chartreuse;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    height: 100px;
+    width: 200px;
+    background-color: firebrick;
+    text-align: center;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 15px;
+}
