@@ -1,4 +1,19 @@
-#box {
-    background-color: blue;
-    color: aliceblue;
+h1 {
+    color: blue;
+    text-align: center;
+    text-decoration: black wavy underline;
+}
+
+#one {
+    text-align: center;
+    font-size:1px;
+    line-height: 50px;
+}
+
+#two {
+    text-align: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 50px;
+    text-transform: capitalize;
 }
