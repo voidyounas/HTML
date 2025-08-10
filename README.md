@@ -1,2 +1,2 @@
 # HTML
-**Learning HTML and working on different things**
+**Learning HTML and Vanilla CSS. working on different things**
